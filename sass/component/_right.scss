@@ -1,0 +1,87 @@
+.right {
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  gap: 1rem;
+  @media screen and (max-width: 37.5em) {
+    max-width: 30rem;
+    margin-top: 2.5rem;
+    gap: 2.5rem;
+  }
+}
+.heading {
+  color: $Desaturated-Dark-Blue;
+  font-weight: 600;
+}
+.heading-primary {
+  line-height: 1.2;
+  @media screen and (max-width: 37.5em) {
+    font-size: 1.5rem;
+    line-height: 2rem;
+  }
+}
+.heading-secondary {
+  color: $Desaturated-Dark-Blue;
+  @media screen and (max-width: 37.5em) {
+    font-size: 1.2rem;
+  }
+}
+.content {
+  font-weight: 600;
+  color: $Desaturated-Dark-Blue;
+  @media screen and (max-width: 37.5em) {
+    font-size: 1.2rem;
+  }
+}
+
+.feature {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  &-info {
+    display: flex;
+    flex-direction: row;
+    &-1 {
+      width: 3.5rem;
+      height: 3.5rem;
+      border-radius: 100%;
+    }
+
+    &-2 {
+      margin-left: 1.5rem;
+      display: flex;
+      flex-direction: column;
+      &-name {
+      }
+      &-date {
+        font-weight: 700;
+        color: $Grayish-Blue;
+      }
+    }
+  }
+
+  &-share {
+    width: 2.5rem;
+    height: 2.5rem;
+    background-color: $Grayish-Blue;
+    align-self: center;
+    border-radius: 100%;
+    position: relative;
+  }
+}
+
+.share-icon {
+  width: 1.5rem;
+  height: 1rem;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.photo {
+  width: 100%;
+  border-radius: 100%;
+}

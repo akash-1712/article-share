@@ -1,0 +1,15 @@
+.card {
+  width: 60rem;
+  min-height: 20rem;
+  background-color: white;
+  margin: 5rem auto;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  border-radius: 10px;
+
+  @media screen and (max-width: 37.5em) {
+    display: flex;
+    flex-direction: column;
+    max-width: 30rem;
+  }
+}
