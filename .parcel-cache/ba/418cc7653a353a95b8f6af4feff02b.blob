@@ -1,0 +1,50 @@
+require("url:../images/icon-facebook.svg");
+require("url:../images/icon-twitter.svg");
+require("url:../images/icon-pinterest.svg");
+const featureShare = document.querySelector(".feature-share");
+const share = document.querySelector(".share");
+const card = document.querySelector(".card");
+const shareIcon = document.querySelector(".share-icon");
+// const createIcon = function (hrf, source, alt) {
+// return `
+// <a href="${hrf}" target="_blank"
+// ><img
+// class="share-icons"
+// src="${source}"
+// alt="${alt}"
+// /></a>
+// `;
+// };
+// const createMarkup = function (hrf, source) {
+// return `
+// <div class="share hidden">
+// <h3 class="heading-tritary">Share</h3>
+// <a href="https://www.facebook.com/" target="_blank"
+// ><img
+// class="share-icons"
+// src="./images/icon-facebook.svg"
+// alt="facebook"
+// /></a>
+// <a href="http://www.twitter.com/" target="_blank"
+// ><img
+// class="share-icons"
+// src="./images/icon-twitter.svg"
+// alt="twitter"
+// /></a>
+// <a href="http://www.pinterest.com/" target="_blank"
+// ><img
+// class="share-icons"
+// src="./images/icon-pinterest.svg"
+// alt="pinterest"
+// /></a>
+// </div>`;
+// };
+card.addEventListener("click", function (e) {
+  if (e.target == featureShare || e.target == shareIcon) return;
+  share.classList.add("hidden");
+});
+featureShare.addEventListener("click", function (e) {
+  card.insertAdjacentHTML("beforeend", createIcon());
+  e.preventDefault();
+  share.classList.toggle("hidden");
+});

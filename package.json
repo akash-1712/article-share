@@ -2,13 +2,18 @@
   "name": "article-preview-component-master",
   "version": "1.0.0",
   "description": "preview-article-component",
-  "main": "index.js",
+  "default": "index.html",
   "scripts": {
-    "compile:sass": "node-sass ./sass/main.scss ./css/style.css -w "
+    "compile:sass": "node-sass ./sass/main.scss ./css/style.css -w ",
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dir"
   },
   "author": "Akash Verma",
   "license": "ISC",
   "dependencies": {
     "node-sass": "^6.0.0"
+  },
+  "devDependencies": {
+    "parcel": "*"
   }
 }

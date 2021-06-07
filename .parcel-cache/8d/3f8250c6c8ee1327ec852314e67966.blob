@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- displays site properly based on user's device -->
+
+    <link rel="icon" type="image/png" sizes="32x32" href="da65485582594a2f96fb55e562c65b7d">
+
+    <title>Frontend Mentor | Article preview component</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="c5b17644e9b6ae13bb384d72781855da">
+    <link href="8490af27a092f40bbd5516a67ee2b480" rel="stylesheet">
+
+    <!-- Style Sheet  -->
+    <link rel="stylesheet" href="5db98aa853e4a7323413583012f69baf">
+    <!-- JavaScript -->
+    <script defer="" src="1b891f01356940479fe875b2bd0563b6"></script>
+  </head>
+  <body>
+    <div class="card">
+      <div class="left"></div>
+      <div class="right">
+        <header class="heading">
+          <h1 class="heading-primary">
+            Shift the overall look and feel by adding these wonderful touches to
+            furniture in your home.
+          </h1>
+        </header>
+        <div class="content">
+          Ever been in a room and felt like something was missing? Perhaps it
+          felt slightly bare and uninviting. I’ve got some simple tips to help
+          you make any room feel complete.
+        </div>
+        <div class="feature">
+          <div class="feature-info">
+            <div class="feature-info-1">
+              <img class="photo" src="b52082bd70021082ce5961e9d14b5e65" alt="drawers">
+            </div>
+            <div class="feature-info-2">
+              <div class="feature-info-2-name">
+                <h2 class="heading-secondary">Michelle Appleton</h2>
+              </div>
+              <div class="feature-info-2-date">28 Jun 2020</div>
+            </div>
+          </div>
+          <div class="feature-share">
+            <img class="share-icon" src="efe4100825d7d8e426b2e03fdb826b90" alt="share.icon">
+          </div>
+          <div class="share hidden">
+            <h3 class="heading-tritary">Share</h3>
+            <a href="0a28036621d363eccafb791eb0402fd8" target="_blank"><img class="share-icons" src="dded6e4b099ef85222d1b6933ddd0b47" alt="facebook"></a>
+            <a href="d01530edb054d126ac243b3ea2363c0d" target="_blank"><img class="share-icons" src="e55174b5e292f89b36b1f080566a906b" alt="twitter"></a>
+
+            <a href="2bf1362a5e2c28d666fa7db79b1ee3e8" target="_blank"><img class="share-icons" src="1c74d667c6fab6bb785fd66a1814fd4e" alt="pinterest"></a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Shift the overall look and feel by adding these wonderful touches to
+    furniture in your home Ever been in a room and felt like something was
+    missing? Perhaps it felt slightly bare and uninviting. I’ve got some simple
+    tips to help you make any room feel complete. Michelle Appleton 28 Jun 2020
+    Share -->
+
+    <!-- <div class="attribution">
+      Challenge by
+      <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
+        >Frontend Mentor</a
+      >. Coded by <a href="#">Your Name Here</a>.
+    </div> -->
+  </body>
+</html>

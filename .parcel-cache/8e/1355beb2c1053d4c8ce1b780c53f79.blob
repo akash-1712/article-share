@@ -1,0 +1,1 @@
+module.exports = require('./bundle-url').getBundleURL() + "icon-twitter.HASH_REF_6e0c17e0aeba7e7c945f8b52913b0ac3.svg"
