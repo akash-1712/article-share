@@ -6,7 +6,7 @@
 137C:\Users\parsh\Documents\article-preview-component-master\node_modules\postcss-merge-rules\node_modules\postcss-selector-parser\README.md121436361000000000 0
 138C:\Users\parsh\Documents\article-preview-component-master\node_modules\postcss-minify-gradients\node_modules\source-map\lib\source-node.js131509962680000000 0
 81C:\Users\parsh\Documents\article-preview-component-master\node_modules\estraverse132674821820337794 1
-68C:\Users\parsh\Documents\article-preview-component-master\.gitignore132674769989397824 0
+68C:\Users\parsh\Documents\article-preview-component-master\.gitignore132675066013356512 0
 107C:\Users\parsh\Documents\article-preview-component-master\node_modules\uncss\node_modules\commander\typings132674821822227928 1
 82C:\Users\parsh\Documents\article-preview-component-master\node_modules\caller-path132674821806276095 1
 60C:\Users\parsh\Documents\article-preview-component-master\js132674777395085381 1
@@ -119,7 +119,7 @@
 80C:\Users\parsh\Documents\article-preview-component-master\node_modules\is-number132674821805756063 1
 92C:\Users\parsh\Documents\article-preview-component-master\node_modules\regjsparser\parser.js121436361000000000 0
 144C:\Users\parsh\Documents\article-preview-component-master\node_modules\regenerate-unicode-properties\Script_Extensions\Inscriptional_Parthian.js121436361000000000 0
-62C:\Users\parsh\Documents\article-preview-component-master\dist132674828112344668 1
+62C:\Users\parsh\Documents\article-preview-component-master\dist132675064542785051 1
 84C:\Users\parsh\Documents\article-preview-component-master\node_modules\is-descriptor132674821805506046 1
 120C:\Users\parsh\Documents\article-preview-component-master\node_modules\jsdom\lib\jsdom\living\generated\SVGSVGElement.js121436361000000000 0
 119C:\Users\parsh\Documents\article-preview-component-master\node_modules\postcss-merge-rules\node_modules\chalk\readme.md121436361000000000 0
@@ -146,7 +146,7 @@
 125C:\Users\parsh\Documents\article-preview-component-master\node_modules\postcss-colormin\node_modules\supports-color\readme.md121436361000000000 0
 157C:\Users\parsh\Documents\article-preview-component-master\node_modules\postcss-normalize-timing-functions\node_modules\source-map\lib\source-map-generator.js131508293880000000 0
 93C:\Users\parsh\Documents\article-preview-component-master\node_modules\@parcel\events\LICENSE121436361000000000 0
-68C:\Users\parsh\Documents\article-preview-component-master\index.html132674826134058607 0
+68C:\Users\parsh\Documents\article-preview-component-master\index.html132675064540330001 0
 141C:\Users\parsh\Documents\article-preview-component-master\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\namespace.js121436361000000000 0
 149C:\Users\parsh\Documents\article-preview-component-master\node_modules\postcss-discard-empty\node_modules\chalk\node_modules\supports-color\readme.md131663821590000000 0
 90C:\Users\parsh\Documents\article-preview-component-master\node_modules\tweetnacl\README.md131261008380000000 0
@@ -288,7 +288,7 @@
 119C:\Users\parsh\Documents\article-preview-component-master\node_modules\css-tree\node_modules\source-map\source-map.d.ts131369414910000000 0
 79C:\Users\parsh\Documents\article-preview-component-master\node_modules\caseless132673942205811215 1
 88C:\Users\parsh\Documents\article-preview-component-master\node_modules\lodash\fp\take.js121436361000000000 0
-80C:\Users\parsh\Documents\article-preview-component-master\sass\layout\_card.scss132674766965598616 0
+80C:\Users\parsh\Documents\article-preview-component-master\sass\layout\_card.scss132675076357375897 0
 92C:\Users\parsh\Documents\article-preview-component-master\node_modules\import-fresh\index.js131398396820000000 0
 127C:\Users\parsh\Documents\article-preview-component-master\node_modules\jsdom\lib\jsdom\living\nodes\HTMLProgressElement-impl.js121436361000000000 0
 98C:\Users\parsh\Documents\article-preview-component-master\node_modules\core-js\es\promise\index.js121436361000000000 0
@@ -2820,7 +2820,7 @@
 93C:\Users\parsh\Documents\article-preview-component-master\node_modules\mdn-data\css\readme.md121436361000000000 0
 99C:\Users\parsh\Documents\article-preview-component-master\node_modules\parse5\lib\common\unicode.js121436361000000000 0
 127C:\Users\parsh\Documents\article-preview-component-master\node_modules\postcss-minify-selectors\node_modules\chalk\templates.js121436361000000000 0
-81C:\Users\parsh\Documents\article-preview-component-master\dist\index.ea68c68a.css132674828112224691 0
+81C:\Users\parsh\Documents\article-preview-component-master\dist\index.ea68c68a.css132675064542527612 0
 125C:\Users\parsh\Documents\article-preview-component-master\node_modules\escodegen\node_modules\source-map\lib\binary-search.js131369414910000000 0
 81C:\Users\parsh\Documents\article-preview-component-master\node_modules\snapdragon132674821812517201 1
 133C:\Users\parsh\Documents\article-preview-component-master\node_modules\regenerate-unicode-properties\Script_Extensions\Medefaidrin.js121436361000000000 0
@@ -3332,7 +3332,7 @@
 114C:\Users\parsh\Documents\article-preview-component-master\node_modules\stylehacks\node_modules\postcss\lib\node.js121436361000000000 0
 130C:\Users\parsh\Documents\article-preview-component-master\node_modules\postcss-svgo\node_modules\postcss-value-parser\lib\index.js121436361000000000 0
 97C:\Users\parsh\Documents\article-preview-component-master\node_modules\yargs\lib\apply-extends.js121436361000000000 0
-90C:\Users\parsh\Documents\article-preview-component-master\dist\icon-pinterest.4ebf4bdf.svg132674828111994644 0
+90C:\Users\parsh\Documents\article-preview-component-master\dist\icon-pinterest.4ebf4bdf.svg132675064542401454 0
 110C:\Users\parsh\Documents\article-preview-component-master\node_modules\simple-swizzle\node_modules\is-arrayish132674821809366346 1
 113C:\Users\parsh\Documents\article-preview-component-master\node_modules\url\node_modules\querystring\test\index.js130069925890000000 0
 91C:\Users\parsh\Documents\article-preview-component-master\node_modules\yargs\lib\command.js121436361000000000 0
@@ -9260,7 +9260,7 @@
 103C:\Users\parsh\Documents\article-preview-component-master\node_modules\core-js\stable\array\includes.js121436361000000000 0
 112C:\Users\parsh\Documents\article-preview-component-master\node_modules\postcss-ordered-values\node_modules\chalk132674821817077554 1
 99C:\Users\parsh\Documents\article-preview-component-master\node_modules\minimalistic-assert\index.js121436361000000000 0
-73C:\Users\parsh\Documents\article-preview-component-master\dist\index.html132674828112224691 0
+73C:\Users\parsh\Documents\article-preview-component-master\dist\index.html132675064542527612 0
 92C:\Users\parsh\Documents\article-preview-component-master\node_modules\ecc-jsbn\package.json131773531190000000 0
 114C:\Users\parsh\Documents\article-preview-component-master\node_modules\postcss-ordered-values\node_modules\postcss132674821849539970 1
 111C:\Users\parsh\Documents\article-preview-component-master\node_modules\core-js\features\object\define-getter.js121436361000000000 0
@@ -10326,7 +10326,7 @@
 138C:\Users\parsh\Documents\article-preview-component-master\node_modules\postcss-normalize-positions\node_modules\postcss\lib\stringifier.js121436361000000000 0
 100C:\Users\parsh\Documents\article-preview-component-master\node_modules\es-abstract\2015\ToBoolean.js121436361000000000 0
 136C:\Users\parsh\Documents\article-preview-component-master\node_modules\postcss-normalize-positions\node_modules\postcss\lib\stringify.js121436361000000000 0
-89C:\Users\parsh\Documents\article-preview-component-master\dist\icon-facebook.1a92bd30.svg132674828112034645 0
+89C:\Users\parsh\Documents\article-preview-component-master\dist\icon-facebook.1a92bd30.svg132675064368115251 0
 114C:\Users\parsh\Documents\article-preview-component-master\node_modules\@parcel\core\test\fixtures\config\.parcelrc121436361000000000 0
 106C:\Users\parsh\Documents\article-preview-component-master\node_modules\postcss-convert-values\package.json121436361000000000 0
 92C:\Users\parsh\Documents\article-preview-component-master\node_modules\node-sass\test\api.js121436361000000000 0
@@ -12198,7 +12198,7 @@
 131C:\Users\parsh\Documents\article-preview-component-master\node_modules\postcss-convert-values\node_modules\postcss-value-parser\lib132674821822517952 1
 110C:\Users\parsh\Documents\article-preview-component-master\node_modules\highlight.js\scss\shades-of-purple.scss121436361000000000 0
 140C:\Users\parsh\Documents\article-preview-component-master\node_modules\postcss-convert-values\node_modules\postcss-value-parser\package.json121436361000000000 0
-80C:\Users\parsh\Documents\article-preview-component-master\dist\index.216e724a.js132674828112234693 0
+80C:\Users\parsh\Documents\article-preview-component-master\dist\index.216e724a.js132675064542527612 0
 84C:\Users\parsh\Documents\article-preview-component-master\node_modules\pify\index.js130903382770000000 0
 140C:\Users\parsh\Documents\article-preview-component-master\node_modules\postcss-convert-values\node_modules\postcss-value-parser\lib\index.js121436361000000000 0
 90C:\Users\parsh\Documents\article-preview-component-master\node_modules\lodash\entriesIn.js121436361000000000 0
@@ -13661,7 +13661,7 @@
 103C:\Users\parsh\Documents\article-preview-component-master\node_modules\core-js\stable\symbol\replace.js121436361000000000 0
 94C:\Users\parsh\Documents\article-preview-component-master\node_modules\nan\doc\v8_internals.md132319691430000000 0
 96C:\Users\parsh\Documents\article-preview-component-master\node_modules\es-to-primitive\README.md121436361000000000 0
-84C:\Users\parsh\Documents\article-preview-component-master\dist\index.216e724a.js.map132674828112324675 0
+84C:\Users\parsh\Documents\article-preview-component-master\dist\index.216e724a.js.map132675064542705051 0
 89C:\Users\parsh\Documents\article-preview-component-master\node_modules\nan\doc\v8_misc.md132319691430000000 0
 160C:\Users\parsh\Documents\article-preview-component-master\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-exclude\package.json121436361000000000 0
 82C:\Users\parsh\Documents\article-preview-component-master\node_modules\ms\index.js121436361000000000 0
@@ -13792,7 +13792,7 @@
 93C:\Users\parsh\Documents\article-preview-component-master\node_modules\map-visit\package.json131362477870000000 0
 87C:\Users\parsh\Documents\article-preview-component-master\node_modules\map-obj\index.js130750632090000000 0
 91C:\Users\parsh\Documents\article-preview-component-master\node_modules\map-obj\package.json130750633610000000 0
-89C:\Users\parsh\Documents\article-preview-component-master\dist\favicon-32x32.5d498718.png132674828111954645 0
+89C:\Users\parsh\Documents\article-preview-component-master\dist\favicon-32x32.5d498718.png132675064542521570 0
 89C:\Users\parsh\Documents\article-preview-component-master\node_modules\map-cache\index.js131048515760000000 0
 89C:\Users\parsh\Documents\article-preview-component-master\node_modules\lru-cache\index.js121436361000000000 0
 88C:\Users\parsh\Documents\article-preview-component-master\node_modules\lru-cache\LICENSE121436361000000000 0
@@ -18766,7 +18766,7 @@
 106C:\Users\parsh\Documents\article-preview-component-master\node_modules\core-js\modules\esnext.map.every.js121436361000000000 0
 109C:\Users\parsh\Documents\article-preview-component-master\node_modules\core-js\modules\esnext.map.find-key.js121436361000000000 0
 105C:\Users\parsh\Documents\article-preview-component-master\node_modules\core-js\modules\esnext.map.from.js121436361000000000 0
-88C:\Users\parsh\Documents\article-preview-component-master\dist\icon-twitter.913b0ac3.svg132674828112034645 0
+88C:\Users\parsh\Documents\article-preview-component-master\dist\icon-twitter.913b0ac3.svg132675064367959020 0
 109C:\Users\parsh\Documents\article-preview-component-master\node_modules\core-js\modules\esnext.map.group-by.js121436361000000000 0
 107C:\Users\parsh\Documents\article-preview-component-master\node_modules\core-js\modules\esnext.map.key-of.js121436361000000000 0
 105C:\Users\parsh\Documents\article-preview-component-master\node_modules\core-js\modules\esnext.map.some.js121436361000000000 0
@@ -18968,7 +18968,7 @@
 111C:\Users\parsh\Documents\article-preview-component-master\node_modules\core-js\features\symbol\async-dispose.js121436361000000000 0
 109C:\Users\parsh\Documents\article-preview-component-master\node_modules\core-js\features\symbol\description.js121436361000000000 0
 101C:\Users\parsh\Documents\article-preview-component-master\node_modules\core-js\features\symbol\for.js121436361000000000 0
-86C:\Users\parsh\Documents\article-preview-component-master\dist\icon-share.fe903c68.svg132674828111964696 0
+86C:\Users\parsh\Documents\article-preview-component-master\dist\icon-share.fe903c68.svg132675064542521570 0
 103C:\Users\parsh\Documents\article-preview-component-master\node_modules\core-js\features\symbol\index.js121436361000000000 0
 118C:\Users\parsh\Documents\article-preview-component-master\node_modules\core-js\features\symbol\is-concat-spreadable.js121436361000000000 0
 109C:\Users\parsh\Documents\article-preview-component-master\node_modules\core-js\features\number\parse-float.js121436361000000000 0
@@ -22642,14 +22642,14 @@
 85C:\Users\parsh\Documents\article-preview-component-master\node_modules\.bin\uncss.ps1132674821885542654 0
 80C:\Users\parsh\Documents\article-preview-component-master\node_modules\.bin\uuid132673942231413130 0
 84C:\Users\parsh\Documents\article-preview-component-master\node_modules\.bin\uuid.ps1132673942231413130 0
-69C:\Users\parsh\Documents\article-preview-component-master\js\index.js132674828110285841 0
+69C:\Users\parsh\Documents\article-preview-component-master\js\index.js132675064457739209 0
 82C:\Users\parsh\Documents\article-preview-component-master\images\favicon-32x32.png132598032600000000 0
-91C:\Users\parsh\Documents\article-preview-component-master\dist\avatar-michelle.9f2fc717.jpg132674828111954645 0
-83C:\Users\parsh\Documents\article-preview-component-master\dist\drawers.b937c2c0.jpg132674828111924669 0
-89C:\Users\parsh\Documents\article-preview-component-master\dist\icon-facebook.ce03be59.svg132674828112004661 0
-90C:\Users\parsh\Documents\article-preview-component-master\dist\icon-pinterest.ef0d8a99.svg132674828111714637 0
-88C:\Users\parsh\Documents\article-preview-component-master\dist\icon-twitter.59850df7.svg132674828111994644 0
-85C:\Users\parsh\Documents\article-preview-component-master\dist\index.ea68c68a.css.map132674828112314674 0
+91C:\Users\parsh\Documents\article-preview-component-master\dist\avatar-michelle.9f2fc717.jpg132675064542521570 0
+83C:\Users\parsh\Documents\article-preview-component-master\dist\drawers.b937c2c0.jpg132675064542222752 0
+89C:\Users\parsh\Documents\article-preview-component-master\dist\icon-facebook.ce03be59.svg132675064542401454 0
+90C:\Users\parsh\Documents\article-preview-component-master\dist\icon-pinterest.ef0d8a99.svg132675064367959020 0
+88C:\Users\parsh\Documents\article-preview-component-master\dist\icon-twitter.59850df7.svg132675064542382800 0
+85C:\Users\parsh\Documents\article-preview-component-master\dist\index.ea68c68a.css.map132675064542705051 0
 90C:\Users\parsh\Documents\article-preview-component-master\dir\avatar-michelle.09e2be6a.jpg132674828996997917 0
 82C:\Users\parsh\Documents\article-preview-component-master\dir\drawers.3ca9d09f.jpg132674828999172880 0
 88C:\Users\parsh\Documents\article-preview-component-master\dir\favicon-32x32.6795fcb6.png132674828996932887 0

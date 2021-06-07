@@ -30,7 +30,11 @@ body {
   margin: 5rem auto;
   display: grid;
   grid-template-columns: 1fr 2fr;
-  border-radius: 10px; }
+  border-radius: 10px;
+  box-shadow: 0px 7px 30px rgba(0, 0, 0, 0.342);
+  animation-name: cardApperance;
+  animation-duration: 2s;
+  animation-timing-function: ease-out; }
   @media screen and (max-width: 37.5em) {
     .card {
       display: flex;
@@ -85,7 +89,8 @@ body {
   letter-spacing: 2px;
   color: #6d7f97;
   font-size: 2rem;
-  margin-top: -6px; }
+  margin-top: -6px;
+  cursor: pointer; }
 
 .content {
   font-weight: 600;
@@ -120,7 +125,12 @@ body {
     align-self: center;
     border-radius: 100%;
     position: relative;
-    cursor: pointer; }
+    cursor: pointer;
+    box-shadow: 0px 7px 30px rgba(0, 0, 0, 0.342);
+    transition: all 1s; }
+    .feature-share:hover {
+      box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.468);
+      transform: scale(1.2); }
 
 .share-icon {
   width: 1.5rem;
@@ -148,7 +158,8 @@ body {
   display: flex;
   flex-direction: row;
   align-items: end;
-  gap: 1.2rem; }
+  gap: 1.2rem;
+  animation: cardApperance 2s ease; }
   @media screen and (max-width: 37.5em) {
     .share {
       clip-path: none;
@@ -159,8 +170,17 @@ body {
       justify-content: space-around;
       align-items: center; } }
   .share-icons {
-    width: 2.6rem; }
+    width: 2.6rem;
+    transition: all 0.5s; }
+    .share-icons:hover {
+      transform: scale(1.2); }
 
 .hidden {
   display: none;
   visibility: hidden; }
+
+@keyframes cardApperance {
+  0% {
+    opacity: 0; }
+  100% {
+    opacity: 1; } }
